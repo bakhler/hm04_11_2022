@@ -1,4 +1,4 @@
-let personsAge = '23';
+let personsAge = (23);
 console.log(personsAge);
 
 let isPersonAnAdult = true;
